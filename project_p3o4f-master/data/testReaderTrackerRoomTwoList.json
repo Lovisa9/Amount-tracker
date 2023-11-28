@@ -1,0 +1,15 @@
+{
+  "AmountTrackerList": [
+    {
+      "category": "SALARY",
+      "amount": 1000
+    },
+    {
+      "category": "ENTERTAINMENT",
+      "amount": 150
+    }
+
+  ],
+  "name": "Tracker",
+  "InitialAmount": 1000
+}

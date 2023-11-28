@@ -1,0 +1,14 @@
+{
+    "InitialAmount": 1000,
+    "AmountTrackerList": [
+        {
+            "amount": 200,
+            "category": "SHOPPING"
+        },
+        {
+            "amount": 1000,
+            "category": "SCHOLARSHIP"
+        }
+    ],
+    "name": "Tracker"
+}

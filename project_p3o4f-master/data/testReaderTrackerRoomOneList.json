@@ -1,0 +1,11 @@
+{
+  "AmountTrackerList": [
+    {
+      "category": "FOOD",
+      "amount": 100
+    }
+
+  ],
+  "name": "Tracker",
+  "InitialAmount": 1000
+}
